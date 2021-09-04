@@ -1,5 +1,8 @@
 # RickandMortyFanGame
-A simple Rick and Morty fan game made in Unity and C#
+A simple Rick and Morty fan game made in Unity and C#,
+created more than 45+ C# scripts, 70+ animations, 
+sprites and audio assets purchased from https://jake9055.itch.io/rick-morty-game-asset, 
+level music credits:Music by Marllon Silva (xDeviruchi)
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/88481389/132109595-db454e65-8543-460d-80e7-02825439bcc3.png)
 ![Screenshot (6)](https://user-images.githubusercontent.com/88481389/132109598-3c7e2b78-27f7-40ce-abb4-bedb70207365.png)
